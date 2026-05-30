@@ -2,7 +2,7 @@
 
 Bienvenue sur **rAthenaFR**, une initiative communautaire francophone autour de **rAthena**.
 
-Notre objectif est de rendre rAthena plus accessible aux utilisateurs francophones avec :
+L'objectif est de rendre rAthena plus accessible aux utilisateurs francophones avec :
 
 - de la documentation en français ;
 - des guides d'installation ;
@@ -17,4 +17,4 @@ Notre objectif est de rendre rAthena plus accessible aux utilisateurs francophon
 - Site officiel : https://rathena.org/
 - Dépôt GitHub : https://github.com/rathena/rathena
 - Forum officiel : https://rathena.org/board/
-- Wiki officiel : https://github.com/rathena/rathena/wiki- Site officiel rAthena : https://rathena.org/
+- Wiki officiel : https://github.com/rathena/rathena/wiki
