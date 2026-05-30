@@ -14,7 +14,7 @@ L'objectif est de rendre rAthena plus accessible aux utilisateurs francophones a
 
 ## Liens officiels rAthena
 
-- Site officiel : https://rathena.org/
-- Dépôt GitHub : https://github.com/rathena/rathena
-- Forum officiel : https://rathena.org/board/
-- Wiki officiel : https://github.com/rathena/rathena/wiki
+- Site officiel : **[rAthena.org](https://rathena.org/)**
+- Dépôt GitHub : **[GitHub rAthena](https://github.com/rathena/rathena)**
+- Forum officiel : **[Forum rAthena](https://rathena.org/board/)**
+- Wiki officiel : **[Wiki rAthena](https://github.com/rathena/rathena/wiki)**
