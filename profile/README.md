@@ -12,6 +12,27 @@ L'objectif est de rendre rAthena plus accessible aux utilisateurs francophones a
 > Projet communautaire basé sur rAthena.  
 > rAthenaFR n'est pas une version officielle du projet rAthena.
 
+## 📊 Statistiques rAthenaFR
+
+<table>
+  <tr>
+    <td align="center">
+      <img width="350" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rAthenaFR&layout=compact&theme=tokyonight&hide_border=true&card_width=350" />
+    </td>
+    <td align="center">
+      <img width="350" height="195" src="https://github-readme-stats.vercel.app/api/pin/?username=rAthenaFR&repo=rAthenaFR&theme=tokyonight&hide_border=true" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img width="350" height="195" src="https://github-readme-stats.vercel.app/api/pin/?username=rAthenaFR&repo=FluxCPFR&theme=tokyonight&hide_border=true" />
+    </td>
+    <td align="center">
+      <img width="350" height="195" src="https://github-readme-stats.vercel.app/api/pin/?username=rAthenaFR&repo=rAthenaFR-BotDiscord&theme=tokyonight&hide_border=true" />
+    </td>
+  </tr>
+</table>
+
 ## Liens officiels rAthena
 
 - Site officiel : **[rAthena.org](https://rathena.org/)**
