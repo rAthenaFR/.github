@@ -15,7 +15,7 @@ L'objectif est de rendre rAthena plus accessible aux utilisateurs francophones a
 ## Statistiques rAthenaFR
 
 <p align="center">
-  <img src="./assets/org-stats.svg" alt="Statistiques GitHub rAthenaFR" />
+  <img src="https://raw.githubusercontent.com/rAthenaFR/.github/main/assets/org-stats.svg" alt="Statistiques GitHub rAthenaFR" />
 </p>
 
 ## Liens officiels rAthena
