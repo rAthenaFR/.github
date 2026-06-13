@@ -12,33 +12,11 @@ L'objectif est de rendre rAthena plus accessible aux utilisateurs francophones a
 > Projet communautaire basé sur rAthena.  
 > rAthenaFR n'est pas une version officielle du projet rAthena.
 
-## 📊 Statistiques rAthenaFR
+## Statistiques rAthenaFR
 
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?label=Repos%20publics&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Forgs%2FrAthenaFR&style=for-the-badge&logo=github&color=blueviolet" />
-  <img src="https://img.shields.io/github/stars/rAthenaFR/rAthenaFR?style=for-the-badge&logo=github&label=rAthenaFR" />
-  <img src="https://img.shields.io/github/forks/rAthenaFR/rAthenaFR?style=for-the-badge&logo=github&label=Forks" />
-  <img src="https://img.shields.io/github/last-commit/rAthenaFR/rAthenaFR?style=for-the-badge&logo=github&label=Dernier%20commit" />
+  <img src="./assets/org-stats.svg" alt="Statistiques GitHub rAthenaFR" />
 </p>
-
-<table>
-  <tr>
-    <td align="center">
-      <img width="350" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rAthenaFR&layout=compact&theme=tokyonight&hide_border=true&card_width=350&langs_count=8&size_weight=0.5&count_weight=0.5" />
-    </td>
-    <td align="center">
-      <img width="350" height="195" src="https://github-readme-stats.vercel.app/api/pin/?username=rAthenaFR&repo=rAthenaFR&theme=tokyonight&hide_border=true" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img width="350" height="195" src="https://github-readme-stats.vercel.app/api/pin/?username=rAthenaFR&repo=FluxCPFR&theme=tokyonight&hide_border=true" />
-    </td>
-    <td align="center">
-      <img width="350" height="195" src="https://github-readme-stats.vercel.app/api/pin/?username=rAthenaFR&repo=rAthenaFR-BotDiscord&theme=tokyonight&hide_border=true" />
-    </td>
-  </tr>
-</table>
 
 ## Liens officiels rAthena
 
