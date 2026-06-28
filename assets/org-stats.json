@@ -1,14 +1,14 @@
 {
   "organization": "rAthenaFR",
-  "updatedAt": "2026-06-27T06:28:11.723Z",
-  "latestPush": "2026-06-22T09:35:39Z",
+  "updatedAt": "2026-06-28T07:01:27.702Z",
+  "latestPush": "2026-06-27T12:53:42Z",
   "totals": {
     "publicRepos": 4,
     "projectRepos": 3,
     "stars": 1,
     "forks": 0,
-    "openIssuesAndPullRequests": 1,
-    "sizeKb": 23060
+    "openIssuesAndPullRequests": 0,
+    "sizeKb": 23061
   },
   "topLanguages": [
     {

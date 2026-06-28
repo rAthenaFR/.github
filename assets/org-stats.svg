@@ -21,10 +21,10 @@
       <text x="660" y="154" fill="#58a6ff" font-size="14" text-anchor="end" font-weight="700">0</text>
     
       <text x="40" y="178" fill="#c9d1d9" font-size="14">Issues / PR ouvertes</text>
-      <text x="660" y="178" fill="#58a6ff" font-size="14" text-anchor="end" font-weight="700">1</text>
+      <text x="660" y="178" fill="#58a6ff" font-size="14" text-anchor="end" font-weight="700">0</text>
     
       <text x="40" y="202" fill="#c9d1d9" font-size="14">Dernier push</text>
-      <text x="660" y="202" fill="#58a6ff" font-size="14" text-anchor="end" font-weight="700">2026-06-22</text>
+      <text x="660" y="202" fill="#58a6ff" font-size="14" text-anchor="end" font-weight="700">2026-06-27</text>
     
 
     <text x="40" y="232" fill="#c9d1d9" font-size="14">Langages principaux</text>
